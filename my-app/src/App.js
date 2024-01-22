@@ -10,8 +10,7 @@ function App() {
       <header className="App-header">
        
         <p>
-          Elimination-
-        ARMY
+          Elimination-ARMY
         </p>
         <Grid/> 
         <a
