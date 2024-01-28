@@ -16,7 +16,7 @@ export class Node extends Component {
     }
     // console.log(this.props.parentToChild.key);
     return (
-      <div className="node">{this.state.pointer}</div>
+      <div className="node">&nbsp;{this.state.pointer}</div>
     )
   } 
 }

@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-css-grid": "^2.0.0-0"
+  }
+}
